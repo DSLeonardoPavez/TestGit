@@ -1,0 +1,2 @@
+CMD: git --version : Version actual de git
+git clone {y aquí tu url} : clona repositorio en una carpeta
