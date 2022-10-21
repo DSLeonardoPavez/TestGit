@@ -1,2 +1,6 @@
 CMD: git --version : Version actual de git
 git clone {y aquí tu url} : clona repositorio en una carpeta
+git init: inicializar archivo
+git add {especificar archivo dentro de la carpeta para agregar} : agrega un archivo
+git add . : agregar todo al repositorio
+git push origin main: subimos los cambios a la rama main
